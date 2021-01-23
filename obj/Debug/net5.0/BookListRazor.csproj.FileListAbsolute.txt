@@ -387,3 +387,4 @@ D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\runtimes\win\lib\nets
 D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Devlopment\aspdotnetcore\BookListRazor\obj\Debug\net5.0\Razor\Pages\Booklist\Index.cshtml.g.cs
 D:\Devlopment\aspdotnetcore\BookListRazor\obj\Debug\net5.0\Razor\Pages\Booklist\Create.cshtml.g.cs
+D:\Devlopment\aspdotnetcore\BookListRazor\obj\Debug\net5.0\Razor\Pages\Booklist\Edit.cshtml.g.cs

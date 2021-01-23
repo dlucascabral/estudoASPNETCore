@@ -15646,6 +15646,11 @@
       "FilePath": "d:\\Devlopment\\aspdotnetcore\\BookListRazor\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Devlopment\\aspdotnetcore\\BookListRazor\\Pages\\Booklist\\Edit.cshtml",
+      "TargetPath": "Pages\\Booklist\\Edit.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
