@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\dluca\\.nuget\\packages\\",
         "outputPath": "D:\\Devlopment\\aspdotnetcore\\BookListRazor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\dluca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
