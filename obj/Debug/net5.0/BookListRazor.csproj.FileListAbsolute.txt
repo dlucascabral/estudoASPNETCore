@@ -388,3 +388,17 @@ D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\runtimes\win\lib\nets
 D:\Devlopment\aspdotnetcore\BookListRazor\obj\Debug\net5.0\Razor\Pages\Booklist\Index.cshtml.g.cs
 D:\Devlopment\aspdotnetcore\BookListRazor\obj\Debug\net5.0\Razor\Pages\Booklist\Create.cshtml.g.cs
 D:\Devlopment\aspdotnetcore\BookListRazor\obj\Debug\net5.0\Razor\Pages\Booklist\Edit.cshtml.g.cs
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\features\profiles\crud.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\features\profiles\default.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\5555efa8-0370-4532-b5af-dbf6f71f6d6e-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\6246244d-9283-44c2-bae7-a2c52142b438-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\66ecc4b2-97aa-4594-93b1-3b8ce708bcbc-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\73e24474-a0c6-4dde-9641-7724ed388cb0-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\d4adfde5-6a3b-4917-8233-163d1810206d-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\dead2962-7fe8-4554-a250-0954d6f9f637-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\163fc1e6-5643-470f-83e9-c5582b7f1593-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\9f54c34f-fc20-4911-b75a-5547aa056dc5-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\b9b0ae56-9d39-487c-ae68-4f9c93b5382f-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\e151dcaa-145d-4d43-b7de-9743f3c14480-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\e6dcabe3-862d-4fea-94ba-bd0471f1ee5a-result.json
+D:\Devlopment\aspdotnetcore\BookListRazor\bin\Debug\net5.0\teste\BehaveProject\allure\results\ff1a0718-9e8d-4ef6-ad4a-c13ed0775d3a-result.json

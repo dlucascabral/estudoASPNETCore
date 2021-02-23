@@ -1,0 +1,8 @@
+{
+    "element_load_timeout": 5,
+    "url": "https://localhost:5001/Booklist",
+    "test": "",
+    "headless": false,
+    "screenshot": false,
+    "retry": false
+}
